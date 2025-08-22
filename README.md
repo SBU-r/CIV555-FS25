@@ -1,5 +1,6 @@
 # CIV555-FS25
-CIV555 - ML and AI for Civil Engineering
+This repository is for the course CIV 555: ML and AI for Civil Engineering (fall 2025) at Stony Brook University. Students download course materials in this rep but submit their assignments to BrightSpace.
+
 
 **Course Schedule**
 
