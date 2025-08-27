@@ -6,9 +6,9 @@ This repository is for the course CIV 555: ML and AI for Civil Engineering (fall
 
 |Date          |Module       |Lecture Notes    |Jupyter Notebooks   |Data
 |---------------|-------------|-----------------|--------------------|--------------------|
-|August 26      |Python Programming Environment | 1. Python__Environment.pdf|
-|August 28      |Learning from Data: Concepts    | 2. Concepts_ML.pdf
-|August 28      |Linear Algebra (Review)        | 3. Linear_Algebra (Review).pdf            |Linear_Algebra.ipynb
-|September 2    |Data Understanding, Description, and Summary (Review)|
-|September 4    |Modeling Data Uncertainty with Probability (Review)|
-|September 4    |Data Visualization (Review)|
+|Aug 26      |Python Programming Environment | 1. Python__Environment.pdf|
+|Aug 28      |Learning from Data: Concepts    | 2. Concepts_ML.pdf
+|Aug 28      |Linear Algebra (Review)        | 3. Linear_Algebra (Review).pdf            |Linear_Algebra.ipynb
+|Sep 2    |Data Understanding, Description, and Summary (Review)|
+|Sep 4    |Modeling Data Uncertainty with Probability (Review)|
+|Sep 4    |Data Visualization (Review)|
