@@ -10,5 +10,3 @@ This repository is for the course CIV 555: ML and AI for Civil Engineering (fall
 |Aug 28      |Learning from Data: Concepts    | 2. Concepts_ML.pdf
 |Aug 28      |Linear Algebra (Review)        | 3. Linear_Algebra (Review).pdf            |Linear_Algebra.ipynb
 |Sep 02    |Data Understanding, Description, and Summary (Review)|  |Data_Understanding_Description_Summary.ipynb
-|Sep 04    |Modeling Data Uncertainty with Probability (Review)|
-|Sep 04    |Data Visualization (Review)|
