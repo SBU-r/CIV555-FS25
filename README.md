@@ -11,3 +11,4 @@ This repository is for the course CIV 555: ML and AI for Civil Engineering (fall
 |Aug 28      |Linear Algebra (Review)        | 3. Linear_Algebra (Review).pdf            |Linear_Algebra.ipynb
 |Sep 02    |Data Understanding (Review)|  |Data_Understanding.ipynb|NY_Bicycle.csv
 |Sep 04    |Feature Extraction            |5. Feature Extraction.pdf|Feature_Extraction.ipynb
+|Sep 09    |Feature Extraction (cont)     
