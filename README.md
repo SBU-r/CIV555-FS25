@@ -17,4 +17,5 @@ This repository is for the course CIV 555: ML and AI for Civil Engineering (fall
 |Sep 18    |Regression (cont.)      |
 |Sep 20    |Regression (cont.) 
 |Sep 22    |Regression (cont.) 
+|Sep 27    |Classification          |7.Classification.pdf|Classification.ipynb|
 
