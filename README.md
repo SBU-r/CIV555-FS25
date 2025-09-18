@@ -13,5 +13,5 @@ This repository is for the course CIV 555: ML and AI for Civil Engineering (fall
 |Sep 04    |Feature Extraction            |5.Feature_Extraction.pdf|Feature_Extraction.ipynb|NY_Bicycle.csv
 |Sep 09    |Feature Extraction (cont.) 
 |Sep 11    |Feature Extraction (cont.)
-|Sep 13    |Regression              |5.Regression.pdf|Regression.ipynb|
+|Sep 13    |Regression              |6.Regression.pdf|Regression.ipynb|
 |Sep 18    |Regression (cont.)      |
