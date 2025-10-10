@@ -19,12 +19,10 @@ This repository is for the course CIV 555: ML and AI for Civil Engineering (fall
 |Sep 25    |Regression (cont.) 
 |Sep 30    |Classification          |7.Classification.pdf|Classification.ipynb|
 |Oct 02    |Classification (cont.)
-|Oct 07    |Classification (cont.)
-|Oct 09    |Classification (cont.)
-|Oct 14    |Clustering              |8. Clustering.pdf|Clustering.ipynb
+|Oct 07    |Clustering              |8. Clustering.pdf|Clustering.ipynb
+|Oct 09    |Clustering (cont.)
 |Oct 16    |Clustering (cont.)
-|Oct 21    |Clustering (cont.)
-|Oct 23    |Clustering (cont.)
-|Oct 28    |Neural Networks        |9. Neural Networks
-|Oct 30    |Neural Networks (cont.)
+|Oct 21    |Neural Networks        |9. Neural Networks
+|Oct 21    |Neural Networks (cont.)
+|Oct 23    |Neural Networks (cont.) 
 
