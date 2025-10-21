@@ -23,6 +23,6 @@ This repository is for the course CIV 555: ML and AI for Civil Engineering (fall
 |Oct 09    |Clustering (cont.)
 |Oct 16    |Clustering (cont.)
 |Oct 21    |Neural Networks        |9. Neural Networks
-|Oct 21    |Neural Networks (cont.)
-|Oct 23    |Neural Networks (cont.) 
+|Oct 23    |Neural Networks (cont.)
+|Oct 28    |Neural Networks (cont.) 
 
