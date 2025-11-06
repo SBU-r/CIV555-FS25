@@ -26,8 +26,16 @@ This repository is for the course CIV 555: ML and AI for Civil Engineering (fall
 |Oct 23    |Neural Networks (cont.)
 |Oct 28    |Neural Networks (cont.) 
 |Oct 30    |Project Proposal (No class)
-|Nov 04    |Convolutional Neural Networks|    10. Convolutional_Neural_Networks.pdf |10.Convolutional_Neural_Networks.ipynb
-|Nov 06    |Convolutional Neural Networks (cont.)
+|Nov 04    |Introduction to AI by Chenyu Zhang
+|Nov 06    |Convolutional Neural Networks|    10. Convolutional_Neural_Networks.pdf |10.Convolutional_Neural_Networks.ipynb
+|Nov 11    |Convolutional Neural Networks (cont.)
+|Nov 13    |Convolutional Neural Networks (cont.)
+|Nov 18    |Recurrent Neural Networks|    11. Recurrent_Neural_Networks.pdf    |11.Recurrent_Neural_Networks.ipnb
+|Nov 20    |Recurrent Neural Networks (cont')
+|Nov 25    |Generative AI by Ke Li
+|Nov 27    |Thanksgiving (No class)
+|Dec 02    |Project Presentations
+|Dec 04    |Project Presentations (cont.)
 
 
 
